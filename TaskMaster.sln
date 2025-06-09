@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMaster", "TaskMaster\TaskMaster.csproj", "{1F03C508-8751-40C4-9C47-D466FC610E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMaster.Tests", "TaskMaster.Tests\TaskMaster.Tests.csproj", "{8220122B-9115-4BB1-A894-3A951E3C3C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F03C508-8751-40C4-9C47-D466FC610E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F03C508-8751-40C4-9C47-D466FC610E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F03C508-8751-40C4-9C47-D466FC610E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F03C508-8751-40C4-9C47-D466FC610E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8220122B-9115-4BB1-A894-3A951E3C3C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8220122B-9115-4BB1-A894-3A951E3C3C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8220122B-9115-4BB1-A894-3A951E3C3C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8220122B-9115-4BB1-A894-3A951E3C3C88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

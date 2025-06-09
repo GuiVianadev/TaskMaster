@@ -1,0 +1,41 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAbstractValidator_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003F34ff4a0f713e2bf2792a68c17f16e627d9162c3133b95be749eb257ac4f778_003FAbstractValidator_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AFaker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F905adec405a94564a6ab07170f477b82252000_003F9d_003F63df5bfe_003FFaker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATaskStatus_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F5aeb6167299d4cfba30c86624130edbcc90938_003F64_003F500fd8cb_003FTaskStatus_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATask_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003Fa77b231cea33ff338c41dc7869d6c493d4dae137ff51e342173efa61d933_003FTask_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATask_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FSourcesCache_003Fa77b231cea33ff338c41dc7869d6c493d4dae137ff51e342173efa61d933_003FTask_002Ecs_002Fz_003A2_002D1/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=8220122B_002D9115_002D4BB1_002DA894_002D3A951E3C3C88_002Fd_003AServices_002Ff_003ATaskServiceTests_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9268ebbf_002D97e0_002D424a_002Da854_002Db3e93190406b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_GivenAllParameters_ThenShouldSetThePropertiesCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Entities.TaskTests.Constructor_GivenAllParameters_ThenShouldSetThePropertiesCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Entities.TaskTests.Change_Title_GivenTaskWithTheSameTitle_ThenShouldSetThePropertiesCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Entities.TaskTests.Change_Description_GivenTaskWithTheSameTitle_ThenShouldSetThePropertiesCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Entities.TaskTests.Change_Priority_GivenTaskWithTheSameTitle_ThenShouldSetThePropertiesCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Have_Error_When_Name_Is_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Have_Error_When_Email_Is_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Have_Error_When_Email_Is_Invalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Have_Error_When_Password_Is_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Have_Error_When_Password_Is_Less_than_six_caracters&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Have_Errors_When_All_Fields_Are_Invalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateUserValidatorTests.Should_Not_Have_Errors_When_All_Fields_Are_Valid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.TaskServiceTests.Should_Create_Task_Successfully&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.TaskServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateTaskValidatorTests.Should_Have_Error_When_Title_Is_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateTaskValidatorTests.Should_Have_Error_When_Description_Is_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateTaskValidatorTests.Should_Have_Error_When_Priority_Is_Invalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Validators.CreateTaskValidatorTests.Should_Have_Error_When_UserId_Is_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.UserServiceTests.Should_Have_Errors_When_All_Fields_Are_Invalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.UserServiceTests.Should_Have_Error_If_User_With_Same_Email_Exist_In_Database&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.UserServiceTests.Should_Have_Sucessfuly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c2f2696c_002D709e_002D4f6b_002Daa35_002D84afe89d67e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Have_Sucessfuly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.UserServiceTests.Should_Have_Sucessfuly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dfbc6484_002De9f1_002D400f_002Da9e4_002Dbeef5eec05d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Have_Sucessfuly #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8220122B-9115-4BB1-A894-3A951E3C3C88::net8.0::TaskMaster.Tests.Services.UserServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
